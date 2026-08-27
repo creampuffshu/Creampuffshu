@@ -1,8 +1,12 @@
-# Creampuffshu!
-
-# PS
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=creampuffshu)](https://solved.ac/creampuffshu)
-[![CodeForces Profile](https://cf.leed.at?id=creampuffshu)](https://codeforces.com/profile/creampuffshu)
+## Competitive Programming
+- Codeforces : https://codeforces.com/profile/SakiRyozo
+- Atcoder : https://atcoder.jp/users/Creampuffshu
+## experience
+- 22 교내 알고리즘 대회 (KUPC) 3등
+- 23 교내 알고리즘 대회 (KUPC) 문제 출제 및 검수
+- 23 ICPC Seoul Regional 예선
+- 25 교내 알고리즘 대회 (KUPC) 1등 
+- 26 Kyoto Sangyo University 3학년 1학기 교환학생
 <!--
 **Creampuffshu/Creampuffshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
