@@ -4,7 +4,7 @@
 ## experience
 - 22 교내 알고리즘 대회 (KUPC) 3등
 - 23 교내 알고리즘 대회 (KUPC) 문제 출제 및 검수
-- 23 ICPC Seoul Regional 예선
+- 23 ICPC Seoul Regional 예선 3솔브
 - 25 교내 알고리즘 대회 (KUPC) 1등 
 - 26 Kyoto Sangyo University 3학년 1학기 교환학생
 <!--
