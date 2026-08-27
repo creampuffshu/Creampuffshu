@@ -1,7 +1,7 @@
 ## Competitive Programming
 - Codeforces : https://codeforces.com/profile/SakiRyozo
 - Atcoder : https://atcoder.jp/users/Creampuffshu
-## experience
+## Experience
 - 22 교내 알고리즘 대회 (KUPC) 3등
 - 23 교내 알고리즘 대회 (KUPC) 문제 출제 및 검수
 - 23 ICPC Seoul Regional 예선 3솔브
