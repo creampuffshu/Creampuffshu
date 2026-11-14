@@ -1,3 +1,5 @@
+## About Me
+- Computer Science Student at Konkuk University
 ## Competitive Programming
 - Codeforces : https://codeforces.com/profile/creampuffshu
 - Atcoder : https://atcoder.jp/users/Creampuffshu
