@@ -12,4 +12,4 @@
 - '26 Kyoto Sangyo University 3학년 1학기 교환학생
 - '26 UCPC 예선 5솔브
 - '26 ICPC Seoul Regional 예선 4솔브 (76위)
-- '26 ICPC Seoul Regional 본선 54위
+- '26 ICPC Seoul Regional 본선 honorable mention (54th Place)
